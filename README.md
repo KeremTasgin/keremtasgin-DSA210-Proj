@@ -1,12 +1,12 @@
 # keremtasgin-DSA210-Proj
 The  DSA210 Project by Kerem Taşgın
 
-#PROJECT IDEA
+# PROJECT IDEA
 
 
-#PROJECT PLAN
+# PROJECT PLAN
 
 
-#DATA SET
+# DATA SET
 
 
