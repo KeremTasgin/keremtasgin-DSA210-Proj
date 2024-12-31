@@ -29,7 +29,6 @@ The analysis draws on two distinct datasets:
   - Songs listened to (titles and artists)
   - Listening duration
   - Timestamps of playback
-  - Associated genres
 
 
 ---
@@ -42,7 +41,7 @@ The analysis draws on two distinct datasets:
 
 ### 2. **Understanding Connections**
    - Investigate potential links between late-night music listening and sleep patterns, such as changes in duration or quality.
-   - Explore whether specific genres or listening durations correlate with better or worse sleep outcomes.
+   - Explore whether specific listening durations correlate with better or worse sleep outcomes.
 
 ### 3. **Modeling and Insights**
    - Develop machine learning models to predict sleep quality based on listening behavior.
